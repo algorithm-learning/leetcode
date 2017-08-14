@@ -26,7 +26,7 @@ public class Solution {
         return maxLength;
     }
     public static void main(String[] args){
-        Solution s = new Solution();
+        Solution2 s = new Solution2();
         System.out.println(s.lengthOfLongestSubstring("abcabcbb"));
     }
 }
